@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "670OZVdZHnwZT7grCjselcPo6RkGkzqiKGHMWxZSdAE=",
+  "Source": "taskHub",
+  "BasePath": "_content/taskHub",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
