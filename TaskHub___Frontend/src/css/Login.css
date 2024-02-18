@@ -1,0 +1,145 @@
+.loginput{
+    width:330px ;
+    margin: 15px;
+    padding: 10px;
+}
+
+
+.Login{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    /* background-color: #27b6ba; */
+    height: 100%;
+    width: 100%;
+}
+
+.loginImg img{
+    height: 500px;
+}
+.logbutton{
+width:330px ;
+background-color: #27b6ba;
+    margin-top: 25px;
+    border: 0px;
+}
+.logform{
+    height: 600px;
+
+}
+.loginLink{
+    margin-top: 20px;
+    color: #27b6ba;
+}
+.loginLink Link{
+ text-decoration: none;
+    color: #27b6ba;
+}
+
+.is-invalid {
+    margin-top: 500px; /* Adjust this value to change the margin */
+  }
+
+.signupModal{
+    margin:10px;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Lily+Script+One);
+
+
+.loginform {
+	margin:10% auto 0 auto;
+	padding:30px;
+	width:400px;
+	height:100%;
+	overflow:hidden;
+	background:white;
+	border-radius:10px;
+}
+
+.loginlabel {
+	font-size:14px;
+	color:darkgray;
+	cursor:pointer;
+}
+
+.loginlabel,
+.logininput {
+	float:left;
+	clear:both;
+}
+
+.logininput {
+	margin:15px 0;
+	padding:15px 10px;
+	width:100%;
+	outline:none;
+	border:1px solid #bbb;
+	border-radius:20px;
+	display:inline-block;
+	-webkit-box-sizing:border-box;
+	   -moz-box-sizing:border-box;
+	        box-sizing:border-box;
+    -webkit-transition:0.2s ease all;
+	   -moz-transition:0.2s ease all;
+	    -ms-transition:0.2s ease all;
+	     -o-transition:0.2s ease all;
+	        transition:0.2s ease all;
+}
+
+.logininput[type=text]:focus,
+.logininput[type="password"]:focus {
+	border-color:cornflowerblue;
+}
+
+.logininput[type=submit] {
+	padding:15px 50px;
+	width:auto;
+	background:#1abc9c;
+	border:none;
+	color:white;
+	cursor:pointer;
+	display:inline-block;
+	float:right;
+	clear:right;
+	-webkit-transition:0.2s ease all;
+	   -moz-transition:0.2s ease all;
+	    -ms-transition:0.2s ease all;
+	     -o-transition:0.2s ease all;
+	        transition:0.2s ease all;
+}
+
+.logininput[type=submit]:hover {
+	opacity:0.8;
+}
+
+.logininput[type="submit"]:active {
+	opacity:0.4;
+}
+
+
+
+
+
+#logo {
+	margin:0 auto;
+	width:200px;
+	font-family:'Lily Script One', cursive;
+	font-size:60px;
+	font-weight:bold;
+	text-align:center;
+	color:lightgray;
+	-webkit-transition:0.2s ease all;
+	   -moz-transition:0.2s ease all;
+	    -ms-transition:0.2s ease all;
+	     -o-transition:0.2s ease all;
+	        transition:0.2s ease all;
+}
+
+#logo:hover {
+	color:cornflowerblue;
+}
+.lginGoogle{
+	padding-left:30px ;
+	
+}
